@@ -1,3 +1,26 @@
+### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é Raissa 
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+Rayss5
+
+rp8527476@gmail.com 
+
+![-](https://tenor.com/pt-BR/view/laugh-gif-26131338)
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
